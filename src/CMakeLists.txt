@@ -1,0 +1,13 @@
+set(PROJECT_SRC
+  ${PROJECT_DIR}/include/detail/pugixml.cpp
+  ${PROJECT_DIR}/include/FreeFuncs.cpp
+  ${PROJECT_DIR}/include/ImageLayer.cpp
+  ${PROJECT_DIR}/include/Map.cpp
+  ${PROJECT_DIR}/include/miniz.c
+  ${PROJECT_DIR}/include/Object.cpp
+  ${PROJECT_DIR}/include/ObjectGroup.cpp
+  ${PROJECT_DIR}/include/Property.cpp
+  ${PROJECT_DIR}/include/TileLayer.cpp
+  ${PROJECT_DIR}/include/LayerGroup.cpp
+  ${PROJECT_DIR}/include/Tileset.cpp
+  ${PROJECT_DIR}/include/ObjectTypes.cpp)
